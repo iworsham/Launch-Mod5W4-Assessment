@@ -22,8 +22,14 @@ When finished, create a PR and include your answers to the reflection questions 
 
 ## Reflection Questions (6 points)
 * What about this challenge was most difficult for you?
+I think the most difficult part of this challenge was consuming the API. This is one of most confusing topics for me yet and didnt realize this til today. I struggled configuring the URL and setting up the client to the point where im not sure If the client was created and used.
+  
 * Highlight one peice of code that you wrote that you are especially proud of.
+For me it would be the GetPlanets method ![image](https://github.com/iworsham/Launch-Mod5W4-Assessment/assets/35874300/5e7dbcef-ca0e-45a8-81eb-d207725e9343) I made this to the best of my knowledge and I am confident it is correct or close to that. Just couldnt get the interface to work correctly to run the code. Definitely couldve with more time.
+
+  
 * What would you do next, if we gave you another hour?
+  Considering my stopping point, with another hour I would further debug my code and find my issue in the interface and finish getting planets to display in the application. Another would most likely loosen the collar on some of this stuff for me.
 
 ## Rubric
 
