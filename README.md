@@ -29,7 +29,7 @@ For me it would be the GetPlanets method ![image](https://github.com/iworsham/La
 
   
 * What would you do next, if we gave you another hour?
-  Considering my stopping point, with another hour I would further debug my code and find my issue in the interface and finish getting planets to display in the application. Another would most likely loosen the collar on some of this stuff for me.
+  Considering my stopping point, with another hour I would further debug my code and find my issue in the interface and finish getting planets to display in the application. Another hour would most likely loosen the collar on some of this stuff for me.
 
 ## Rubric
 
